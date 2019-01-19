@@ -15,7 +15,7 @@ Clone the respository from Github
 
 Run the site using a local server
 
-view by opena browser at http://localhost:`<your server port number>`
+view by opena browser at http://localhost: `<your server port number>`
 
 ## Dependencies
 
