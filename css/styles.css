@@ -126,11 +126,13 @@ nav h1 a {
   letter-spacing: 0;
   margin: 10px;
   padding: 0 10px;
-  width: 200px;
+  width: auto;
 }
 
 /* ====================== Restaurant Listing ====================== */
 #restaurants-list {
+  display: flex;
+  flex-flow: row wrap;
   background-color: #f3f3f3;
   list-style: outside none none;
   margin: 0;
