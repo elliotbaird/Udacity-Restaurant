@@ -7,7 +7,7 @@ This is my final project for Udacity FEND Nanodegree program.  The objective was
 
 ## Description
 
-Users can select area or cuisine to reduce the number of restaurant showing and then select an restaurant to get more details.
+Users can select an neighboorhood or cuisine to reduce the number of restaurant showing and then select an restaurant to get more details.
 
 ## Running the App
 
